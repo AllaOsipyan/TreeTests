@@ -1,0 +1,12 @@
+C:\Users\odint\Desktop\Последняя\bin\Debug\Black-Red_tree.exe.config
+C:\Users\odint\Desktop\Последняя\bin\Debug\Black-Red_tree.exe
+C:\Users\odint\Desktop\Последняя\bin\Debug\Black-Red_tree.pdb
+C:\Users\odint\Desktop\Последняя\obj\Debug\Tree.csprojAssemblyReference.cache
+C:\Users\odint\Desktop\Последняя\obj\Debug\Black-Red_tree.exe
+C:\Users\odint\Desktop\Последняя\obj\Debug\Black-Red_tree.pdb
+C:\Users\odint\Desktop\forgit\Application\bin\Debug\Black-Red_tree.exe.config
+C:\Users\odint\Desktop\forgit\Application\bin\Debug\Black-Red_tree.exe
+C:\Users\odint\Desktop\forgit\Application\bin\Debug\Black-Red_tree.pdb
+C:\Users\odint\Desktop\forgit\Application\obj\Debug\Black-Red_tree.exe
+C:\Users\odint\Desktop\forgit\Application\obj\Debug\Black-Red_tree.pdb
+C:\Users\odint\Desktop\forgit\Application\obj\Debug\Tree.csprojAssemblyReference.cache
