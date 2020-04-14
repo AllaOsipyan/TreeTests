@@ -380,7 +380,7 @@ namespace Tree
             }
             else
             {
-                Y = FindNext(item.Value);
+                Y = FindPrev(item.Value);
             }
 
             Replace(item, Y);
